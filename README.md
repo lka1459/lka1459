@@ -22,14 +22,16 @@
 - JavaScript
 
 ### Data & Machine Learning
-- NumPy (learning)
-- Pandas (learning)
-- Machine Learning fundamentals
+- NumPy 
+- Pandas 
+- scikit-learn  
+- Machine Learning (classification, model evaluation, pipelines)  
+- Natural Language Processing
 
 ### Tools & Technologies
-- Git (learning)
-- Jupyter Notebook
-- Google Colab
+- Git & GitHub
+- Jupyter Notebook / Google Colab
+- VS Code
 
 ### IT & Systems
 - Windows OS
@@ -46,10 +48,21 @@
 - Implemented game logic and decision-making in Python
 - Ensured optimal gameplay behaviour
 
-🚧 More projects coming soon:
-- Spam Email Classifier
-- Ticket Priority Predictor
-- Movie Recommendation System
+### 📧 Email Spam Classifier
+- Built a machine learning model to classify SMS messages as spam or ham  
+- Implemented Logistic Regression and Multinomial Naive Bayes using scikit-learn pipelines  
+- Applied NLP techniques (TF-IDF, Count Vectorisation)  
+- Performed hyperparameter tuning using GridSearchCV  
+- Evaluated models using accuracy, precision, recall, and F1-score  
+- Added interactive user input for real-time message classification  
+
+---
+
+### 📊 Data & Python Projects
+- CSV Data Summariser (data processing and statistics)  
+- File Organiser (automation using Python and file system operations)  
+- Log Analyser (regex-based log parsing and analysis)  
+- Pokémon Data Explorer (data filtering, grouping, and analysis with pandas)  
 
 ---
 
@@ -62,7 +75,7 @@
 
 ## 🌐 Connect with Me
 - LinkedIn: www.linkedin.com/in/luka-pustahija-543ba9255
-- GitHub: lka1459
+- Kaggle: https://www.kaggle.com/lka1459
 
 ---
 
