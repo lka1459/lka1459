@@ -22,25 +22,43 @@
 ## 📂 Projects
 
 ### 🤖 Tic Tac Toe AI
-- Built an AI agent using the minimax algorithm
-- Implemented game logic and decision-making in Python
-- Ensured optimal gameplay behaviour
+
+* Built an AI agent using the Minimax algorithm
+* Implemented game logic and decision-making in Python
+* Ensured optimal gameplay through exhaustive search
 
 ### 📧 Email Spam Classifier
-- Built a machine learning model to classify SMS messages as spam or ham  
-- Implemented Logistic Regression and Multinomial Naive Bayes using scikit-learn pipelines  
-- Applied NLP techniques (TF-IDF, Count Vectorisation)  
-- Performed hyperparameter tuning using GridSearchCV  
-- Evaluated models using accuracy, precision, recall, and F1-score  
-- Added interactive user input for real-time message classification  
 
----
+* Built a machine learning model to classify SMS messages as spam or ham
+* Implemented Logistic Regression and Multinomial Naive Bayes using scikit-learn pipelines
+* Applied NLP techniques including TF-IDF and Count Vectorisation
+* Performed hyperparameter tuning using GridSearchCV
+* Evaluated models using accuracy, precision, recall, and F1-score
+* Added interactive user input for real-time message classification
+
+### 💳 Credit Card Fraud Detection
+
+* Developed machine learning models to detect fraudulent credit card transactions
+* Implemented Logistic Regression, Random Forest, and XGBoost classifiers
+* Applied SMOTE and machine learning pipelines to address class imbalance
+* Evaluated performance using Precision, Recall, F1-Score, and Precision-Recall AUC
+* Performed hyperparameter tuning and model comparison
+* Visualised model performance using Precision-Recall curves
+
+### 🛒 Olist Customer Analytics and Churn Prediction (In Progress)
+
+* Building a customer analytics pipeline using SQLite, SQL, Python, and machine learning
+* Creating a relational database from the Olist Brazilian E-Commerce dataset
+* Developing SQL queries for customer, revenue, and product analysis
+* Engineering customer-level features for churn prediction
+* Preparing data pipelines for machine learning model development
 
 ### 📊 Data & Python Projects
-- CSV Data Summariser (data processing and statistics)  
-- File Organiser (automation using Python and file system operations)  
-- Log Analyser (regex-based log parsing and analysis)  
-- Pokémon Data Explorer (data filtering, grouping, and analysis with pandas)  
+
+* Pokémon Data Explorer (pandas-based data analysis and filtering)
+* CSV Data Summariser (automated statistical reporting)
+* Log Analyser (regex-based log parsing and analysis)
+* File Organiser (file system automation and categorisation)
 
 ---
 
@@ -59,4 +77,3 @@
 
 ⭐️ Always learning and building
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
