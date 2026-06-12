@@ -53,7 +53,7 @@
 * Engineering customer-level features for churn prediction
 * Preparing data pipelines for machine learning model development
 
-### 📊 Data & Python Projects
+## 📊 Data & Python Projects
 
 * Pokémon Data Explorer (pandas-based data analysis and filtering)
 * CSV Data Summariser (automated statistical reporting)
